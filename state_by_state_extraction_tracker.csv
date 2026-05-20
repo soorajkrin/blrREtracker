@@ -1,0 +1,361 @@
+state_ut,city_town,rank_in_state,market_tier,guidance_status,guidance_source,transaction_evidence_status,rera_validation_status,water_validation_status,infra_validation_status,priority
+Andhra Pradesh,Visakhapatnam,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Vijayawada,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Guntur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Tirupati,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Nellore,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Kurnool,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Rajahmundry,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Kakinada,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Anantapur,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andhra Pradesh,Kadapa,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Itanagar,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Naharlagun,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Pasighat,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Tawang,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Ziro,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Bomdila,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Tezu,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Roing,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Aalo,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Arunachal Pradesh,Namsai,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Guwahati,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Silchar,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Dibrugarh,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Jorhat,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Tezpur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Nagaon,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Tinsukia,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Bongaigaon,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Sivasagar,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Assam,Dhubri,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Patna,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Gaya,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Muzaffarpur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Bhagalpur,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Darbhanga,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Purnia,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Ara,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Begusarai,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Katihar,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Bihar,Munger,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Raipur,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Bhilai,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Bilaspur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Korba,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Durg,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Rajnandgaon,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Raigarh,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Jagdalpur,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Ambikapur,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chhattisgarh,Dhamtari,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Panaji,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Margao,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Vasco da Gama,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Mapusa,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Ponda,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Bicholim,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Curchorem,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Canacona,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Quepem,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Goa,Sanguem,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Ahmedabad,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Surat,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Vadodara,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Rajkot,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Gandhinagar,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Bhavnagar,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Jamnagar,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Anand,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Bharuch,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Gujarat,Mehsana,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Gurugram,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Faridabad,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Panipat,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Ambala,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Karnal,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Hisar,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Sonipat,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Rohtak,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Panchkula,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Haryana,Manesar,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Shimla,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Solan,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Dharamshala,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Mandi,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Kullu,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Una,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Bilaspur,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Hamirpur,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Palampur,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Himachal Pradesh,Baddi,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Ranchi,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Jamshedpur,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Dhanbad,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Bokaro,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Deoghar,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Hazaribagh,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Giridih,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Ramgarh,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Medininagar,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jharkhand,Dumka,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Bengaluru,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Mysuru,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Mangaluru,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Hubballi-Dharwad,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Belagavi,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Davanagere,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Ballari,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Tumakuru,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Shivamogga,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Karnataka,Udupi,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Kochi,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Thiruvananthapuram,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Kozhikode,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Thrissur,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Kollam,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Kannur,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Kottayam,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Palakkad,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Alappuzha,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Kerala,Malappuram,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Indore,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Bhopal,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Jabalpur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Gwalior,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Ujjain,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Sagar,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Rewa,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Satna,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Dewas,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Madhya Pradesh,Ratlam,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Mumbai Metropolitan Region,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Pune,2,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Nagpur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Nashik,4,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Thane,5,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Navi Mumbai,6,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Aurangabad/Chhatrapati Sambhajinagar,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Solapur,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Kolhapur,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Maharashtra,Amravati,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Imphal,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Thoubal,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Bishnupur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Churachandpur,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Kakching,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Ukhrul,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Senapati,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Tamenglong,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Jiribam,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Manipur,Moreh,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Shillong,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Tura,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Jowai,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Nongstoin,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Williamnagar,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Baghmara,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Nongpoh,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Mairang,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Resubelpara,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Meghalaya,Khliehriat,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Aizawl,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Lunglei,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Champhai,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Serchhip,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Kolasib,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Mamit,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Lawngtlai,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Saitual,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Khawzawl,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Mizoram,Hnahthial,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Kohima,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Dimapur,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Mokokchung,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Tuensang,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Wokha,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Zunheboto,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Mon,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Phek,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Longleng,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Nagaland,Kiphire,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Bhubaneswar,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Cuttack,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Rourkela,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Puri,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Sambalpur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Berhampur,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Balasore,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Jharsuguda,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Angul,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Odisha,Jeypore,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Ludhiana,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Amritsar,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Jalandhar,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Patiala,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Bathinda,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Mohali/SAS Nagar,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Hoshiarpur,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Pathankot,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Moga,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Punjab,Firozpur,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Jaipur,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Jodhpur,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Udaipur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Kota,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Ajmer,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Bikaner,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Alwar,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Bhilwara,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Sikar,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Rajasthan,Neemrana,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Gangtok,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Namchi,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Gyalshing,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Mangan,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Rangpo,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Singtam,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Jorethang,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Ravangla,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Pakyong,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Sikkim,Soreng,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Chennai,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Coimbatore,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Madurai,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Tiruchirappalli,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Salem,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Tiruppur,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Erode,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Vellore,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Hosur,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tamil Nadu,Thoothukudi,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Hyderabad,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Warangal,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Karimnagar,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Nizamabad,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Khammam,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Mahbubnagar,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Ramagundam,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Siddipet,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Nalgonda,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Telangana,Suryapet,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Agartala,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Udaipur,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Dharmanagar,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Kailashahar,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Belonia,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Ambassa,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Khowai,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Teliamura,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Sabroom,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Tripura,Sonamura,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Lucknow,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Noida,2,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Greater Noida,3,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Ghaziabad,4,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Kanpur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Varanasi,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Agra,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Prayagraj,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Meerut,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttar Pradesh,Gorakhpur,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Dehradun,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Haridwar,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Rishikesh,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Haldwani,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Rudrapur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Roorkee,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Nainital,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Kashipur,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Kotdwar,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Uttarakhand,Pithoragarh,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Kolkata,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Siliguri,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Durgapur,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Asansol,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Howrah,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Kharagpur,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Haldia,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Bardhaman,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,Malda,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+West Bengal,New Town/Rajarhat,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Port Blair,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Garacharma,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Bambooflat,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Diglipur,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Mayabunder,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Rangat,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Hut Bay,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Car Nicobar,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Campbell Bay,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Andaman and Nicobar Islands,Wimberlygunj,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Chandigarh,1,Metro / NCR node,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Manimajra,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Daria,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Mauli Jagran,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Kishangarh,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Sarangpur,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Khuda Lahora,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Dhanas,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Maloya,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Chandigarh,Hallo Majra,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Silvassa,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Daman,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Diu,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Amli,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Naroli,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Khanvel,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Vapi border belt,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Dabhel,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Nani Daman,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Dadra and Nagar Haveli and Daman and Diu,Moti Daman,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Dwarka,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Rohini,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Narela,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Najafgarh,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Chhatarpur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Saket,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Laxmi Nagar,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Mayur Vihar,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Pitampura,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Delhi,Kanjhawala,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Srinagar,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Jammu,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Anantnag,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Baramulla,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Udhampur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Kathua,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Sopore,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Pulwama,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Kulgam,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Jammu and Kashmir,Poonch,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Leh,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Kargil,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Nubra,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Diskit,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Drass,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Zanskar/Padum,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Nyoma,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Khaltse,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Sankoo,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Ladakh,Tangtse,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Kavaratti,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Agatti,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Minicoy,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Amini,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Andrott,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Kalpeni,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Kadmat,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Kiltan,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Chetlat,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Lakshadweep,Bitra,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Puducherry,1,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Karaikal,2,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Yanam,3,Large growth city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Mahe,4,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Villianur,5,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Oulgaret,6,Mid-size city,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Ariyankuppam,7,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Bahour,8,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Nettapakkam,9,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1
+Puducherry,Mannadipet,10,Emerging town,Not extracted,,Not extracted,Not checked,Not checked,Not checked,P1

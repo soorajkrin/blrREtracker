@@ -1,0 +1,26 @@
+state_ut,data_type,official_owner,official_url,how_to_use,status
+Karnataka,Guidance value,"Department of Stamps and Registration, Karnataka",https://igr.karnataka.gov.in/page/Revised%2BGuidelines%2BValue/en,District / SRO PDFs; requires locality-level extraction,Ready for manual extraction
+Karnataka,RERA,Karnataka RERA,https://rera.karnataka.gov.in/,Project and layout approval checks,Ready
+Karnataka,Groundwater,Karnataka Ground Water Directorate / CGWB,https://antharjala.karnataka.gov.in/,Taluk/block groundwater status; map to market manually,Ready
+Tamil Nadu,Guideline value,TNREGINET,https://tnreginet.gov.in/,Street/village-level guideline values; portal lookup required,Ready for manual extraction
+Tamil Nadu,RERA,Tamil Nadu RERA,https://www.rera.tn.gov.in/,Project registration and approval checks,Ready
+Maharashtra,Market value,IGR Maharashtra / Ready Reckoner,https://igrmaharashtra.gov.in/,Annual statement of rates; district/taluka/village lookup,Ready for manual extraction
+Maharashtra,RERA,MahaRERA,https://maharera.maharashtra.gov.in/,Project registration and developer checks,Ready
+Telangana,Market value,Registration & Stamps Department Telangana,https://registration.telangana.gov.in/,Market value search; locality-specific lookup required,Ready for manual extraction
+Telangana,RERA,Telangana RERA,https://rera.telangana.gov.in/,Project registration and approval checks,Ready
+Gujarat,Jantri / market value,Revenue Department / Garvi Gujarat,https://garvi.gujarat.gov.in/,Jantri/locality value lookup; verify via official portal,Ready for manual extraction
+Gujarat,RERA,Gujarat RERA,https://gujrera.gujarat.gov.in/,Project registration and approval checks,Ready
+Delhi,Circle rate,"Revenue Department, Govt. of NCT of Delhi",https://revenue.delhi.gov.in/,Circle-rate notifications; colony/category mapping required,Ready for manual extraction
+Delhi,RERA,Delhi RERA,https://rera.delhi.gov.in/,Project registration checks,Ready
+Haryana,Collector rate,Revenue Department Haryana / Jamabandi,https://jamabandi.nic.in/,Collector rates; district/tehsil/village mapping required,Ready for manual extraction
+Haryana,RERA,HRERA,https://haryanarera.gov.in/,Project registration and developer checks,Ready
+Uttar Pradesh,Circle rate,IGRS Uttar Pradesh,https://igrsup.gov.in/,Circle rate / stamp valuation; district and locality lookup,Ready for manual extraction
+Uttar Pradesh,RERA,UP RERA,https://www.up-rera.in/,Project registration and developer checks,Ready
+Rajasthan,DLC rate,Registration & Stamps Rajasthan / E-Panjiyan,https://epanjiyan.nic.in/,DLC rates; district/SRO/village mapping required,Ready for manual extraction
+Rajasthan,RERA,Rajasthan RERA,https://rera.rajasthan.gov.in/,Project registration checks,Ready
+West Bengal,Market value,"Directorate of Registration and Stamp Revenue, West Bengal",https://wbregistration.gov.in/,Market value portal; mouza/ward lookup required,Ready for manual extraction
+West Bengal,RERA,West Bengal RERA,https://rera.wb.gov.in/,Project registration checks,Ready
+All India,Groundwater,Central Ground Water Board / IN-GRES,https://cgwb.gov.in/,Use latest Dynamic Ground Water Resource Assessment by block/taluk,Ready
+All India,Infrastructure,NHAI / MoRTH,https://nhai.gov.in/,"Highway corridors, expressways and status validation",Ready
+All India,Urban programmes,MoHUA,https://mohua.gov.in/,"Urban infra, metro/AMRUT/smart city source pointers",Ready
+All India,RERA aggregator,MoHUA unified RERA / state RERA portals,https://mohua.gov.in/,Use state RERA portals where unified lookup is incomplete,Ready

@@ -1,0 +1,7 @@
+source_category,state_ut,source_name,source_url,refresh_frequency,reliability_1_5,notes
+Guidance value,All,State registration / stamps department,Add official URL,Quarterly or when revised,5,Use official govt source wherever possible
+Sale deeds,All,Registration department / IGR portal,Add official URL,Monthly,5,Best evidence if accessible
+Listings,All,99acres/Magicbricks/Housing/NoBroker,Add search URL,Monthly,2,Good for market direction but not transaction proof
+RERA,All,State RERA portal,Add official URL,Monthly,5,Use for approved plotted projects where applicable
+Water,All,CGWB / local water board / municipal source,Add official URL,Quarterly,5,Use as hard filter
+Infrastructure,All,NHAI/Metro/airport/industrial agency/local authority,Add official URL,Quarterly,4,Tag live/in-progress/planned separately

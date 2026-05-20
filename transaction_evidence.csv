@@ -1,0 +1,2 @@
+state_ut,city_town,project_or_locality,evidence_type,observed_low_psf,observed_high_psf,transaction_or_listing_date,source_name,source_url,confidence_1_5,notes
+Karnataka,Devanahalli,Example plotted layout,Listing sample,4200,7800,2025-01-01,Example listing,https://example.com,2,Replace sample with sale deed/listing evidence
